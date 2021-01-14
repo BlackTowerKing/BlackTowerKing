@@ -2,9 +2,7 @@
 
 ## I'm a Web Developer from Kyiv!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning JS, React :nerd_face:
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Improve knowledges of Programming
 - ⚡ Fun fact: I love to reading books in fantasy ganre / do karate
 
