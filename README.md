@@ -5,14 +5,14 @@
 - 🌱 I’m currently learning JS, React :nerd_face:
 - 🥅 2021 Goals: Improve knowledges of Programming
 - ⚡ Fun fact: I love to reading books in fantasy ganre / do karate
-
+</br>
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-___
+</br>
+</br>
 
 ### Languages and Tools:
 
@@ -26,8 +26,8 @@ ___
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-___
+</br>
+</br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlackTowerKing)](https://github.com/anuraghazra/github-readme-stats)
 
