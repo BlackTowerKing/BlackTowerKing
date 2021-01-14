@@ -37,8 +37,12 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BlackTowerKing&show_icons=true&theme=tokyonight">
 
 </details>
+</br>
+</br>
 
+### Spotify Playing 🎧
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/	ylt4qheenwbgwpp423zid4ryv)
 [instagram]: https://www.instagram.com/ruslan_opryshko/
 [linkedin]: https://www.linkedin.com/in/%D1%80%D1%83%D1%81%D0%BB%D0%B0%D0%BD-%D0%BE%D0%BF%D1%80%D0%B8%D1%88%D0%BA%D0%BE-826787127/
 
