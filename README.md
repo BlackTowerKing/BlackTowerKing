@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning JS, React :nerd_face:
 - 🥅 2021 Goals: Improve knowledges of Programming
-- ⚡ Fun fact: I love to reading books in fantasy ganre / play games on PS / do karate
+- ⚡ Fun fact: I love to reading books in fantasy ganre / play games on PS / do karate (II dan of WKO SHINKYOKUSHINKAI 新極真会)
 
 ### Connect with me:
 
