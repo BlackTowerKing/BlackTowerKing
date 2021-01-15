@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning JS, React :nerd_face:
 - 🥅 2021 Goals: Improve knowledges of Programming
-- ⚡ Fun fact: I love to reading books in fantasy ganre / play games on PS / do karate (II dan of WKO SHINKYOKUSHINKAI 新極真会)
+- ⚡ Fun fact: I love to reading books in fantasy ganre / play games on PS / 
+- :punch: Do karate (II dan of WKO SHINKYOKUSHINKAI 新極真会)
 - <img align="left" alt="Visual Studio Code" width="26px" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" />8 kyu on CodeWars
 
 ### Connect with me:
